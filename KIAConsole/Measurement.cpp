@@ -29,6 +29,10 @@ void Measurement::load()
         if (line.size() == 0 || line[0] == '#' || line[0] == '/' || line[0] == '\'')
             continue;
 
+        // skip lines that don't start with a digit
+        if (!('0' <= line[0] && line[0] <= '9'))
+            continue;
+
         // expect lines to be "x, y" pairs
         try
         {

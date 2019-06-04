@@ -29,5 +29,11 @@ If you're new to Visual C++ (as opposed to GCC / ANSI C++), some breadcrumbs:
 
 # History
 
+- 2019-06-04 0.1.0
+    - added analyze-log script
+    - added input data
+- 2019-06-04 0.0.2
+    - runs
+    - added timestamped logging
 - 2019-05-29 0.0.1
     - builds and runs (haven't tested against spectra)
