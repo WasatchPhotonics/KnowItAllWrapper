@@ -16,7 +16,8 @@ See vendor docs here:
 
 Also see SearchSDK.h notes:
 
-- \ref SearchSDK
+- \ref SearchSDK (if Doxygen rendered)
+- [raw](KIAConsole/SearchSDK.h)
 
 # References
 
