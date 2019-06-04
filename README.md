@@ -30,6 +30,8 @@ If you're new to Visual C++ (as opposed to GCC / ANSI C++), some breadcrumbs:
 
 # History
 
+- 2019-06-04 0.1.1
+    - fixed negative wavenumber import
 - 2019-06-04 0.1.0
     - added analyze-log script
     - added input data

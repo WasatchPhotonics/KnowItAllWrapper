@@ -30,7 +30,7 @@ void Measurement::load()
             continue;
 
         // skip lines that don't start with a digit
-        if (!('0' <= line[0] && line[0] <= '9'))
+        if (!(('0' <= line[0] && line[0] <= '9') || line[0] == '-' ))
             continue;
 
         // expect lines to be "x, y" pairs
