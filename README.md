@@ -32,7 +32,7 @@ This runs a simple script to compare the captured match results against "known
 truth" data (assumed to be in spectrum filename), generating a CSV that can be 
 readily viewed in Excel.
 
-    $ python ..\..\scripts\analyze-log test.log > summary.csv
+    $ python ..\..\scripts\analyze-log.py test.log > summary.csv
 
 # Backlog
 
