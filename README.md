@@ -16,6 +16,24 @@ See vendor docs here:
 
 Also see [SearchSDK.h](KIAConsole/SearchSDK.h) notes.
 
+# Invocation
+
+## Identify sample spectra
+
+This runs an input dataset against the KIA SearchSDK matching algorithm and
+outputs match results to console.
+
+    $ cd data\good
+    $ ..\..\KIAConsole\Debug\KIAConsole.exe > test.log
+
+## Aggregate analysis of identification results
+
+This runs a simple script to compare the captured match results against "known 
+truth" data (assumed to be in spectrum filename), generating a CSV that can be 
+readily viewed in Excel.
+
+    $ python ..\..\scripts\analyze-log test.log > summary.csv
+
 # Backlog
 
 - add command-line options to specify directory, max matches and min confidence
