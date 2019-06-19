@@ -152,6 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="FileFinder.h" />
+    <ClInclude Include="Options.h" />
     <ClInclude Include="Util.h" />
     <ClInclude Include="Measurement.h" />
     <ClInclude Include="pch.h" />
@@ -161,6 +162,7 @@
     <ClCompile Include="FileFinder.cpp" />
     <ClCompile Include="KIAConsole.cpp" />
     <ClCompile Include="Measurement.cpp" />
+    <ClCompile Include="Options.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

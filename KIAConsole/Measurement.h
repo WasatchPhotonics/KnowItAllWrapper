@@ -5,6 +5,7 @@
 
 #include <vector>
 #include <string>
+#include <fstream>
 
 //! simple class to read and parse a spectrum from a CSV file (lines with x, y pairs)
 class Measurement
@@ -15,11 +16,12 @@ class Measurement
         std::wstring pathname;
 
         Measurement(const std::wstring& pathname);
+        Measurement(int pixels);
 
         bool isValid() const;
 
     private:
-        void load();
+        void load(std::istream& infile, int pixels = 0);
         bool valid = false;
 };
 

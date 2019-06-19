@@ -4,8 +4,14 @@
 
 #include <sstream>
 
-using std::string;
+#include <AtlBase.h>
+#include <atlconv.h>
+#include <time.h>
+#include <stdarg.h>
+
 using std::vector;
+using std::string;
+using std::wstring;
 using std::stringstream;
 
 vector<string> Util::split(const string& s, const string& delim)
@@ -22,3 +28,36 @@ vector<string> Util::split(const string& s, const string& delim)
 
     return v;
 }
+
+wstring Util::toWstring(const char* s)
+{
+    CA2W tmp(s);
+    return wstring(tmp);
+}
+
+string Util::toLower(const string& s)
+{
+    string lc(s);
+    for (unsigned i = 0; i < lc.size(); i++)
+        lc[i] = tolower(lc[i]);
+    return lc;
+}
+
+//! print a single timestamped log line to console with linefeed
+void Util::log(const wchar_t* format, ...)
+{
+    time_t now = time(NULL);
+    string(ts) = ctime(&now);
+    ts[ts.length() - 1] = 0;
+    printf("%s ", ts.c_str());
+
+    va_list args;
+    va_start(args, format);
+    vwprintf(format, args);
+    va_end(args);
+
+    printf("\n");
+
+    fflush(stdout);
+}
+

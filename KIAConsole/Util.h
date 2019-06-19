@@ -17,6 +17,9 @@ class Util
 {
     public:
         static std::vector<std::string> split(const std::string& s, const std::string& delim);
+        static std::wstring toWstring(const char* s);
+        static std::string toLower(const std::string& s);
+        static void log(const wchar_t* format, ...);
 
         static bool startswith(const std::string& s, const std::string& prefix)
         {

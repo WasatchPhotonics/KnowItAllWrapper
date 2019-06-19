@@ -34,15 +34,20 @@ readily viewed in Excel.
 
     $ python ..\..\scripts\analyze-log.py test.log > summary.csv
 
+# References
+
+- [KnowItAll QuickStart](http://www.bio-rad.com/webroot/web/pdf/spectroscopy/global/english/literature/docs/280076-KnowItAll_Quick_Start_Guide_English.pdf)
+- [Building Custom Compound Databases](https://www.youtube.com/watch?v=rZ7ZhyrOLEg)
+
 # Backlog
 
-- add command-line options to specify directory, max matches and min confidence
+- add command-line options to specify max matches and min confidence
 - process CSV files listed on cmd-line
-- add --stdin option to allow spectra to be piped in on stdin, with matches 
-  reported on stdout
 
 # History
 
+- 2019-06-19 0.1.3
+    - added --streaming and --directory
 - 2019-06-05 0.1.2
     - added split-spectra
 - 2019-06-04 0.1.1
