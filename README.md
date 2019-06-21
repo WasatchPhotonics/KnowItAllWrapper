@@ -43,9 +43,13 @@ readily viewed in Excel.
 
 - add command-line options to specify max matches and min confidence
 - process CSV files listed on cmd-line
+- pick safer delimiter than @ (could be used in concentrations)
 
 # History
 
+- 2019-06-19 0.2.0
+    - simplified text output a bit to help with parsing
+    - successful preliminary integration into ENLIGHTEN 1.6.14
 - 2019-06-19 0.1.3
     - added --streaming and --directory
 - 2019-06-05 0.1.2

@@ -154,7 +154,7 @@ bool processMeasurement(const Measurement& m)
 {
     auto start = system_clock::now();
 
-    Util::log(L"  opening search with %d datapoints", m.x.size());
+    Util::log(L"Opening search with %d datapoints", m.x.size());
     SEARCHSDK_HANDLE hSearch = s_SearchSDK_OpenSearchFn();
     if (NULL == hSearch)
         return false;
@@ -164,7 +164,7 @@ bool processMeasurement(const Measurement& m)
     SearchSDK_Match matches[MAX_MATCHES];
     int matchCount = MAX_MATCHES;
 
-    Util::log(L"  calling RunSearchUnevenlySpaced");
+    Util::log(L"Calling RunSearchUnevenlySpaced");
     s_SearchSDK_RunSearchUnevenlySpacedFn(
         hSearch, 
         SEARCHSDK_TECHNIQUE_RAMAN,
@@ -179,11 +179,12 @@ bool processMeasurement(const Measurement& m)
     auto end = system_clock::now();
     duration<double> elapsedSec = end - start;
 
-    Util::log(L"  %d matches found in %0.2lf sec", matchCount, elapsedSec);
+    Util::log(L"Found %d matches in %0.2lf sec", matchCount, elapsedSec);
     for (int i = 0; i < matchCount; i++)
     {
         SearchSDK_Match& match = matches[i];
-        Util::log(L"    Match %2d: %ls (%.2lf%% confidence)", i, match.m_matchName, match.m_matchPercentage);
+        wstring name = Util::clean(match.m_matchName);
+        Util::log(L"@@@ Reported match %d: %ls with %.2lf percent confidence @@@", i, name.c_str(), match.m_matchPercentage);
     }
 
     // releases any resources associated with this searchinfile
@@ -196,13 +197,13 @@ bool processMeasurement(const Measurement& m)
 void processFile(const wstring& pathname)
 {
     // load the file
-    Util::log(L"loading %ls", pathname.c_str());
+    Util::log(L"Loading %ls", pathname.c_str());
     Measurement m(pathname);
     if (!m.isValid())
         return;
 
     if (!processMeasurement(m))
-        Util::log(L"  ERROR: could not open search on %ls", pathname.c_str());
+        Util::log(L"ERROR: could not open search on %ls", pathname.c_str());
 }
 
 void processDirectory(const Options& opts)
@@ -210,21 +211,21 @@ void processDirectory(const Options& opts)
     Util::log(L"Searching for CSV files in %s", opts.directory.c_str());
 
     FileFinder ff(opts.directory, L"*.csv");
-    Util::log(L"found %u files", (unsigned)ff.files.size());
+    Util::log(L"Found %u files", (unsigned)ff.files.size());
     ff.files.sort();
 
     // process each matching file
     for (list<wstring>::const_iterator file_iter = ff.files.begin(); file_iter != ff.files.end(); file_iter++)
     {
         const wstring& pathname = *file_iter;
-        Util::log(L"processing %ls", pathname.c_str());
+        Util::log(L"Processing %ls", pathname.c_str());
         processFile(pathname);
     }
 }
 
 void processStream(const Options& opts)
 {
-    Util::log(L"starting stream processing");
+    Util::log(L"Starting stream processing");
     string line;
     while (std::getline(std::cin, line))
     {
@@ -274,7 +275,7 @@ void processStream(const Options& opts)
             break;
         }
     }
-    Util::log(L"stream processing complete");
+    Util::log(L"Stream processing complete");
 }
 
 ////////////////////////////////////////////////////////////////////////////////

@@ -36,7 +36,7 @@ void Measurement::load(istream& is, int pixels)
         Util::trim(line);
 
         // WHY do I have to convert the line to wstring before calling vwprintf?  Docs say %s should work with narrow string...
-        Util::log(L"read line [%04d / %d]: [%s]", linecount, pixels, Util::toWstring(line.c_str()).c_str());
+        // Util::log(L"read line [%04d / %d]: [%s]", linecount, pixels, Util::toWstring(line.c_str()).c_str());
         
         linecount++;
 
@@ -59,7 +59,7 @@ void Measurement::load(istream& is, int pixels)
 
                 if (pixels > 0 && x.size() == pixels)
                 {
-                    Util::log(L"read expected %d pixels", pixels);
+                    Util::log(L"Read expected %d pixels", pixels);
                     break;
                 }
             }
@@ -75,7 +75,7 @@ void Measurement::load(istream& is, int pixels)
             return;
         }
     }
-    Util::log(L"finished loading measurement");
+    Util::log(L"Finished loading measurement");
 
     valid = true;
 }

@@ -43,13 +43,26 @@ string Util::toLower(const string& s)
     return lc;
 }
 
+// remove forbidden characters from compound names (we need something we can use to bracket names in regex)
+wstring Util::clean(const wchar_t* s)
+{
+    wstring orig(s);
+    wstring dest;
+    for (unsigned i = 0; i < orig.size(); i++)
+        if (orig[i] != '@')
+            dest += orig[i];
+    return dest;
+}
+
 //! print a single timestamped log line to console with linefeed
 void Util::log(const wchar_t* format, ...)
 {
+    /*
     time_t now = time(NULL);
     string(ts) = ctime(&now);
     ts[ts.length() - 1] = 0;
     printf("%s ", ts.c_str());
+    */
 
     va_list args;
     va_start(args, format);
