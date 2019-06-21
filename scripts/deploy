@@ -1,0 +1,14 @@
+#!/bin/bash
+################################################################################
+#                                  deploy                                      #
+################################################################################
+#                                                                              #
+#  DESCRIPTION:  Quick script to consistently and reliably upload releases     #
+#                to our website.                                               #
+#                                                                              #
+#  AUTHOR:       Mark Zieg <mzieg@wasatchphotonics.com>                        #
+#                                                                              #
+################################################################################
+
+cp -v KIAConsole/Debug/KIAConsole.exe ../enlighten/dist
+
