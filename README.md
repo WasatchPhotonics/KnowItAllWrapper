@@ -47,6 +47,9 @@ readily viewed in Excel.
 
 # History
 
+- 2019-06-19 0.5.0
+    - added start/end markers
+    - added quit
 - 2019-06-19 0.2.0
     - simplified text output a bit to help with parsing
     - successful preliminary integration into ENLIGHTEN 1.6.14

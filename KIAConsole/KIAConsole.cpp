@@ -15,7 +15,6 @@
 #include <string>
 #include <vector>
 #include <chrono>
-#include <iostream>
 #include <stdexcept>
 
 using std::list;
@@ -24,6 +23,8 @@ using std::string;
 using std::chrono::system_clock;
 using std::chrono::duration;
 using std::wstring;
+
+static wstring VERSION = L"0.5.1";
 
 // function pointers into the SearchSDK DLL
 static SearchSDK_InitFn                     s_SearchSDK_InitFn;
@@ -154,17 +155,16 @@ bool processMeasurement(const Measurement& m)
 {
     auto start = system_clock::now();
 
-    Util::log(L"Opening search with %d datapoints", m.x.size());
+    Util::log(L"Begin processing (%ls)", Util::timestamp().c_str());
     SEARCHSDK_HANDLE hSearch = s_SearchSDK_OpenSearchFn();
     if (NULL == hSearch)
         return false;
 
-    // support up to 50 matches
-    const int MAX_MATCHES = 50;
-    SearchSDK_Match matches[MAX_MATCHES];
-    int matchCount = MAX_MATCHES;
+    // allocate storage for matches
+    SearchSDK_Match* matches = new SearchSDK_Match[m.max_results];
+    int matchCount = m.max_results;
 
-    Util::log(L"Calling RunSearchUnevenlySpaced");
+    Util::log(L"Calling RunSearchUnevenlySpaced (%ls)", Util::timestamp().c_str());
     s_SearchSDK_RunSearchUnevenlySpacedFn(
         hSearch, 
         SEARCHSDK_TECHNIQUE_RAMAN,
@@ -179,16 +179,24 @@ bool processMeasurement(const Measurement& m)
     auto end = system_clock::now();
     duration<double> elapsedSec = end - start;
 
-    Util::log(L"Found %d matches in %0.2lf sec", matchCount, elapsedSec);
+    Util::log(L"Found %d matches in %0.2lf sec", matchCount, elapsedSec); // matched by KIAWrapper
     for (int i = 0; i < matchCount; i++)
     {
         SearchSDK_Match& match = matches[i];
-        wstring name = Util::clean(match.m_matchName);
-        Util::log(L"@@@ Reported match %d: %ls with %.2lf percent confidence @@@", i, name.c_str(), match.m_matchPercentage);
+
+        // skip low-quality matches
+        if (match.m_matchPercentage < m.min_confidence)
+            continue;
+
+        Util::log(L"Match %d: %ls with %.2lf%% confidence (%ls)", // matched by KIAWrapper
+            i, match.m_matchName, 100.0 * match.m_matchPercentage, match.m_bLocked ? L"expired" : L"licensed");
     }
 
     // releases any resources associated with this searchinfile
     s_SearchSDK_CloseSearchFn(hSearch);
+    delete[] matches;
+
+    Util::log(L"Processing complete (%ls)", Util::timestamp().c_str());
     return true;
 }
 
@@ -226,48 +234,17 @@ void processDirectory(const Options& opts)
 void processStream(const Options& opts)
 {
     Util::log(L"Starting stream processing");
-    string line;
-    while (std::getline(std::cin, line))
+
+    while (true)
     {
-        Util::trim(line);
-
-        // skip blanks and comments
-        if (line.size() == 0 || line[0] == '#' || line[0] == '/' || line[0] == '\'')
-            continue;
-
         try
         {
-            std::vector<string> tokens = Util::split(line, ",");
-            if (tokens.size() != 2)
-            {
-                Util::log(L"ERROR: parsing line: %s", line.c_str());
+            // not sure, but suspect this is actually throwing an EOF exception 
+            // we're not catching on shutdown
+            Measurement m;
+            if (m.isQuit)
                 break;
-            }
-
-            string cmd = Util::toLower(tokens[0]);
-            if (cmd == "pixels")
-            {
-                int pixels = atoi(tokens[1].c_str());
-                if (pixels > 0)
-                {
-                    Util::log(L"Reading spectrum of %d pixels", pixels);
-                    Measurement m(pixels);
-                    if (!processMeasurement(m))
-                    {
-                        Util::log(L"ERROR: failed to process measurement");
-                        break;
-                    }
-                }
-                else
-                {
-                    Util::log(L"ERROR: invalid pixel count %d", pixels);
-                }
-            }
-            else
-            {
-                Util::log(L"ERROR: unexpected line: %s", line.c_str());
-                break;
-            }
+            processMeasurement(m);
         }
         catch (std::exception &e)
         {
@@ -286,7 +263,7 @@ void processStream(const Options& opts)
 
 int main(int argc, char** argv)
 {
-    Util::log(L"KIAConsole starting");
+    Util::log(L"KIAConsole version %ls (%ls)", VERSION.c_str(), Util::timestamp().c_str());
 
     // parse command-line arguments
     Options opts(argc, argv);

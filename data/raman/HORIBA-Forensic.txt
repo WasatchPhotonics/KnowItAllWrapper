@@ -1,0 +1,741 @@
+(-)-p-Mentha-1,5-diene; (R)-5-Isopropyl-2-methyl-1,3-cyclohexadiene
+(S,S)-2-Methylamino-1-phenylpropan-1-ol HCl
+1,2-Dimethyl-3-nitrobenzene
+1,2-Dimethyl-4-nitrobenzene
+1,3,5-Trinitrohexahydro-s-triazine
+1,3,7-Trimethylxanthine
+1,8-Cineole; 1,3,3-Trimethyl-2-oxabicyclo[2.2.2]octane, 1,8-Epoxy-p-menthane
+1-Amino-2-phenylethane
+1-Isopropyl-4-methylbenzene; 4-Isopropyltoluene
+1-Methyl-4-(1-methylethenyl)cyclohexene
+2,4 Dinitrotoluene
+2,4,6-Trinitrotoluene; TNT, Trilite, Tolite, Trinol, Trotyl, Tritolo, Tritolol, Triton, Tritone, Trotol, Trinitrotoluol, 2,4,6-Trinitromethylbenzene
+2,6,6-Trimethylbicyclo[3.1.1]hept-2-ene
+2-Acetoxybenzoic acid; Acetylsalicylate; Acetylsalicylic acid; o-Acetylsalicylic acid
+2-Diethylamino-N-(2,6-dimethylphenyl)acetamide, Lignocaine; Xylocaine
+2-Methyl-5-(1-methylethenyl)-2-cyclohexenone
+3,7-Dimethyl-1,6-octadien-3-ol
+3-(Benzoyloxy)-8-methyl- 8-azabicyclo[3.2.1]octane-2-carboxylic acid, methyl ester HCl; Methylbenzoylecgonine HCl
+3-Nitro-o-xylene
+3beta-Hydroxy-5alpha-androstan-17-one
+4-(Butylamino)benzoic acid, 2-(dimethylamino)ethyl ester hydrochloride
+4-Aminobenzenesulfonamide
+4-Aminobenzoic acid, ethyl ester
+4-Isopropylbenzaldehyde
+4-Methyl-3-penten-2-one
+4-Nitro-o-xylene
+4-Propenylanisole, trans-1-Methoxy-4-(1-propenyl)benzene
+5,6-DIHYDRO-9,10-DIMETHOXY-BENZO[G]-1,3-BENZODIOXOLO[5,6-a]QUINOLIZINIUM, CHLORIDE; BERBERINE HCl; BERBERINE CHLORIDE; BERBERINE; BERBERIN HCl; BERBERINE HYDROCHLORIDE N-HYDRATE; BBR; CI 75160
+6,6-Dimethyl-2-methylenebicyclo [3.1.1] heptane
+7-Chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one; Valium
+Acetone
+Alcian Blue 8GX: Ingrain blue 1; C.I. Constitution No: 74240
+Alican Blue
+Alizarin
+Almond oil
+Amber
+Ammonium sulfate
+Andradite
+Aniline sulfate
+Anise oil
+Anthracene
+Araldite
+Aspirin
+Astra Blue Base
+Astra Blue Base G GLLP
+Azure Blue
+Barium White
+Barium Yellow
+Basic copper(II) acetate
+Benzene
+Benzocaine HCl
+Benzoic acid
+Berberine
+Bismuth oxide
+Bismuth trioxide
+Boleite
+Bone White
+Botallackite
+Brillant Turquoise Base 3G
+Burnt Sienna
+Burnt Umber
+C.I. Constitution No: 11050 or 11051
+C.I. Constitution No: 52010; Trimethylthiotinate
+C.I. Constitution No: 77019
+C.I. Constitution No: 77289; Guignet's green; Chromium oxide hydrate
+C.I. Generic name: Acid Blue
+C.I. Generic name: Acid Green 12; C.I. Constitution No: 13425
+C.I. Generic name: Basic Blue 12; C.I. Constitution No: 51180
+C.I. Generic name: Basic Blue 17. BB 17; C.I. Constitution No: 52040
+C.I. Generic name: Basic Blue 26, BB26; C.I. Constitution No: 44045
+C.I. Generic name: Basic Blue 33; Solvent Blue 51+H2O=>Basic Blue 33
+C.I. Generic name: Basic Blue 56; Basic Blue 33; BB 56; BB 33; Solvent Blue 51+H2O=>Basic Blue 33; Triarylmethane
+C.I. Generic name: Basic Blue 9; BB9; SB8; Solvent Blue 8; C.I. Constitution No: 52015
+C.I. Generic name: Basic Green 20; Basic Green 6; BG20; BG6; Methyl Green
+C.I. Generic name: DB106; C.I. Constitution No: 51300
+C.I. Generic name: Direct Blue 106; DB106; C.I. Constitution No: 51300
+C.I. Generic name: Direct Blue 199, DB199; C.I. Constitution No: 74190
+C.I. Generic name: Direct Blue 79; DB79; Derma Fast Blue; Dermafix Blue F
+C.I. Generic name: Direct Blue 86; DB86; C.I. Constitution No: 74180
+C.I. Generic name: Direct Green 23; C.I. Constitution No: 31985; DG23; Sirius Supra Oliva GL
+C.I. Generic name: Direct Green 26; DG 26; C.I. Constitution No; 35045
+C.I. Generic name: Direct Green 34; C.I. 27970; Durazol Green D; Saturn green LBT; Sirius light green BTL; Sirius supra green BTL; Triantine light green SBL
+C.I. Generic name: Direct Green 38, DG38
+C.I. Generic name: Mordant Blue 13; MB13; C.I. Constitution No: 16680
+C.I. Generic name: Natural Brown 8, NBr8; C.I. Constitution No: 77430
+C.I. Generic name: Natural Yellow 24, NY24
+C.I. Generic name: Natural Yellow 24; NY24
+C.I. Generic name: PO36; C.I. Constitution No: 11780
+C.I. Generic name: PO43; C.I. Constitution No: 71105; C.I. Vat Orange 7
+C.I. Generic name: PO48; C.I. Constitution No: 73920
+C.I. Generic name: PO62; C.I. Constitution No: 11775
+C.I. Generic name: PR108; C.I. Constitution No: 77202; Cadmium Red
+C.I. Generic name: PR112; C.I. Constitution No: 12370
+C.I. Generic name: PR122; C.I. Constitution No: 737915; 2,9-Dimethyl-5,12-dihydroquinolino[2,3-b]-7,14-dione
+C.I. Generic name: PR168; C.I. Constitution No: 59300; C.I. Vat Orange 3
+C.I. Generic name: PR170; C.I. Constitution No: 12475
+C.I. Generic name: PR179; C.I. Constitution No: 71130
+C.I. Generic name: PR188; C.I. Constitution No: 12467
+C.I. Generic name: PR209; C.I. Constitution No: 73905
+C.I. Generic name: PR88; C.I. Constitution No: 73312; 4,7-Dichloro-2-(4,7-dichloro-3-oxobenzo[b]thien-2(3H)-ylidene)benzo[b]thiophene-3(2H)-one
+C.I. Generic name: PV19; C.I. Constitution No: 73900; 5,12-Dihydroquinolino[2,3-b]acridine-7,14-dione
+C.I. Generic name: PY108; C.I. Constitution No: 68420
+C.I. Generic name: PY139; C.I. Constitution No, 56298
+C.I. Generic name: PY151; C.I. Constitution No: 13980
+C.I. Generic name: PY154; C.I. Constitution No: 11781
+C.I. Generic name: PY175; C.I. Constitution No: 11784; Dimethyl 2-[[1-[[(2,3-dihydro-2-oxo-1H-benzimidazol-5-yl)amino]carbonyl]-2-oxopropyl]azo]terephthalate
+C.I. Generic name: PY42; C.I. Constitution No: 77492
+C.I. Generic name: PY83; C.I. Constitution No: 21108; 2,2'-[(3,3'-Dichloro[1,1'-biphenyl]-4,4'-diyl)bis(azo)]bis[N-(4-chloro-2,5-dimethoxyphenyl)-3-oxobutyramide]
+C.I. Generic name: Pigmant Blue 16; PB16; C.I. Constitution No: 74100
+C.I. Generic name: Pigment Black 10; PBK10; C.I. Constitution No: 77265
+C.I. Generic name: Pigment Black 11; PB11; C.I. Constitution No.: 77499
+C.I. Generic name: Pigment Black 6; PBK6
+C.I. Generic name: Pigment Black 8, PBK8; C.I. Constitution No: 77268; Grape black
+C.I. Generic name: Pigment Black 9, PBK9; C.I. Constitution No: 77267; Bone Black
+C.I. Generic name: Pigment Black 9; PBK9; C.I. Constitution No: 77267
+C.I. Generic name: Pigment Black 9; PBK9; C.I. Constitution No:77267
+C.I. Generic name: Pigment Blue 15:2; PB15:2; C.I. Constitution No: 74160
+C.I. Generic name: Pigment Blue 15:3, PB15:3; C.I. Constitution No: 74160; Copper phthalocyanine
+C.I. Generic name: Pigment Blue 15:3; PB15:3; C.I. Constitution No: 74160; Copper phthalocyanine
+C.I. Generic name: Pigment Blue 15; C.I. Constitution No: 74160
+C.I. Generic name: Pigment Blue 16:4; PB 16:4; C.I. Constitution No: 74100; Phthalocyanine
+C.I. Generic name: Pigment Blue 27; PB27; C.I. Constitution No: 75510; Milori Blue; Iron Blue; Berlin Blue
+C.I. Generic name: Pigment Blue 28; PB28; C.I. Constitution No: 77346; Cobalt(II) doped alumina glass; Thenard's Blue
+C.I. Generic name: Pigment Blue 29; PB29; C.I. Constitution No.: 77007
+C.I. Generic name: Pigment Blue 29; PB29; C.I. Constitution No.: 77007; Ultramarine Blue
+C.I. Generic name: Pigment Blue 31; PB31; C.I. Constitution No: 77437; Calcium copper (II) silicate
+C.I. Generic name: Pigment Blue 35; Cobalt (II) stannate, cobalt tin oxide
+C.I. Generic name: Pigment Blue 60; PB60; C.I. Constitution No: 69800
+C.I. Generic name: Pigment Blue 70; PB70; C.I. Constitution No.:74160
+C.I. Generic name: Pigment Blue 75; Pigment Blue 75; C.I. 74160:2
+C.I. Generic name: Pigment Brown 7, PBr7; C.I. Constitution No: 77491
+C.I. Generic name: Pigment Brown 7; PBr7; C.I. Constitution No: 77491
+C.I. Generic name: Pigment Green 17, PG17; C.I. Constitution No: 77288
+C.I. Generic name: Pigment Green 17; PG17; C.I. Constitution No: 77288
+C.I. Generic name: Pigment Green 18, PG18; C.I. Constitution No: 77289; Chromium oxide hydrate
+C.I. Generic name: Pigment Green 19; PG19; C.I. Constitution No: 77335; Cobalt(II) zinc oxide
+C.I. Generic name: Pigment Green 21; PG21; C.I. Constitution No: 77410; Paris Green
+C.I. Generic name: Pigment Green 22; PG22; C.I. Constitution No: 77412
+C.I. Generic name: Pigment Green 23, PG23; C.I. Constitution No: 77009
+C.I. Generic name: Pigment Green 23; PG23; C.I. Constitution No: 77009; Green Earth; Verona Green
+C.I. Generic name: Pigment Green 36; PG36; C.I. Constitution No: 74265
+C.I. Generic name: Pigment Green 7; PG 7; C.I. Constitution No: 74260
+C.I. Generic name: Pigment Orange 20, PO20; C.I. Constitution No: 77202
+C.I. Generic name: Pigment Orange 20:1, PO20:1; C.I. Constitution No: 77202
+C.I. Generic name: Pigment Orange 20; PO20; C.I. Constitution No: 77202
+C.I. Generic name: Pigment Red 101 + Pigment Black 11, PR101+PBk11; C.I. Constitution No: 77499+77491; Mars Brown
+C.I. Generic name: Pigment Red 101; PR101; C.I. Constitution No.:77491
+C.I. Generic name: Pigment Red 101; PR101; C.I. Constitution No: 77491
+C.I. Generic name: Pigment Red 101; PR101; C.I. Constitution No: 77491; Hematite
+C.I. Generic name: Pigment Red 101; PR101; C.I. Constitution No: 77491; Hematite red
+C.I. Generic name: Pigment Red 101; PR101; C.I. Constitution No: 77491; Iron oxide
+C.I. Generic name: Pigment Red 102, PR102; C.I. Constitution No, 77491; Venetian Red
+C.I. Generic name: Pigment Red 102; PR102; C.I. Constitution No: 77491; Red ochre
+C.I. Generic name: Pigment Red 106; PR106; C.I. Constitution No: 77766; Mercury sulfide
+C.I. Generic name: Pigment Red 106; PR106; C.I. Constitution No: 77766; Mercury(II) sulfide
+C.I. Generic name: Pigment Red 108, PR108; C.I. Constitution No: 77202
+C.I. Generic name: Pigment Red 14; PR14; C.I. Constitution No: 12380
+C.I. Generic name: Pigment Red 83, PR83; C.I. Constitution No: 75330; Alizarin Crimson; Mordant Red 11, MR11
+C.I. Generic name: Pigment Red 83; PR83; C.I. Constitution No: 58205; 1,2,4-Trihydroxyanthraquinone
+C.I. Generic name: Pigment Violet 23; PV23; C.I. Constitution No: 51319
+C.I. Generic name: Pigment Violet 32, PV32; C.I. Constitution No: 12517
+C.I. Generic name: Pigment Violet 32; PV32; C.I. Constitution No: 12517
+C.I. Generic name: Pigment Violet 37; PV37; C.I. Constitution No: 51345
+C.I. Generic name: Pigment White 18; PW18
+C.I. Generic name: Pigment White 18; PW18; C.I. Constitution No: 77220; Calcium carbonate
+C.I. Generic name: Pigment White 1; PW1; C.I. Constitution No: 77596; Flake White
+C.I. Generic name: Pigment White 22, PW22; C.I. Constitution No: 77120; Barium sulfate
+C.I. Generic name: Pigment White 24; PW24
+C.I. Generic name: Pigment White 25; PW25; C.I. Constitution No: 77231; varieties:Alabaster - Selenite - Satin Spar
+C.I. Generic name: Pigment White 26; PW26; C.I. Constitution No: 77718
+C.I. Generic name: Pigment White 27; PW27; Gems: Rock crystal - Citrine - Morion - Girasol - Prasiolit - Hematoid - Ametyste
+C.I. Generic name: Pigment White 4; PW4; C.I. Constitution No: 77947; China White
+C.I. Generic name: Pigment White 5; PW5; C.I. Constitution No: 77115
+C.I. Generic name: Pigment White 6; PW6; C.I. Constitution No: 77891
+C.I. Generic name: Pigment Yellow 31; PY31; C.I. Constitution No: 77103; Barium chromate; Lemon Yellow
+C.I. Generic name: Pigment Yellow 32; PY32; C.I. Constitution No: 77839; Strontium chromate
+C.I. Generic name: Pigment Yellow 34, PY34; C.I. Constitution No: 77607
+C.I. Generic name: Pigment Yellow 34; PY34; C.I. Constitution No: 77600
+C.I. Generic name: Pigment Yellow 34; PY34; C.I. Constitution No: 77603
+C.I. Generic name: Pigment Yellow 35, PY35; C.I. Constitution No: 77205:1
+C.I. Generic name: Pigment Yellow 36; PY36; C.I. Constitution No: 77955, Zinc chromate
+C.I. Generic name: Pigment Yellow 37; PY37; C.I. Constitution No: 77199
+C.I. Generic name: Pigment Yellow 39; PY39; C.I. Constitution No: 77085; King's Yellow
+C.I. Generic name: Pigment Yellow 40; PY40; C.I. Constitution No: 77357; Potassium cobalt nitrite hydrate
+C.I. Generic name: Pigment Yellow 41; PY41; C.I. Constitution No: 77589; Lead antimonate
+C.I. Generic name: Pigment Yellow 42; PY42; C.I. Constitution No: 77492
+C.I. Generic name: Pigment Yellow 43, PG43; C.I. Constitution No: 77492; Limonite
+C.I. Generic name: Pigment Yellow 43, PG43; C.I. Constitution No: 77492; Limontite:PY42+PY43
+C.I. Generic name: Pigment Yellow 43, Pigment Brown 6, PY43,PBr6; C.I. Constitution No: 77492
+C.I. Generic name: Pigment Yellow 46; PY46; C.I. Constitution No: 77577
+C.I. Generic name: Pigment Yellow 6; PY6; Natural Yellow 6; NY6; C.I. Constitution No:75100
+C.I. Generic name: Pigment yellow 34, PY34; C.I. Constitution No: 77603
+C.I. Generic name: Reactive Blue 120; RB120; Dichloroquinoxaline
+C.I. Generic name: Reactive Blue 182; RB182
+C.I. Generic name: Reactive Blue 19; Reactive Blue 28; C.I. Constitution No: 61200
+C.I. Generic name: Reactive Blue 220, Reactive blue 27; RB220, RB27; Sulphatoethylsulphone
+C.I. Generic name: Reactive Blue 3; C.I. Constitution No:61211
+C.I. Generic name: Reactive Blue104; RB104
+C.I. Generic name: Reactive Blue17; RB17
+C.I. Generic name: Reactive Brown 19; RB19
+C.I. Generic name: Reactive Brown 37; RB37
+C.I. Generic name: Reactive Green 12; RG12; Trichloropyrimidine
+C.I. Generic name: Reactive Green 14; RG14
+C.I. Generic name: Reactive Green 17; Levafix Green E-FB
+C.I. Generic name: Reactive Violet 23, RV23
+C.I. Generic name: Solvent Blue 38; SB38; C.I. Constitution No: 74180
+C.I. Generic name: Solvent Blue 45, Solvent Blue 44
+C.I. Generic name: Solvent Blue 51: SB51
+C.I. Generic name: Solvent Blue 51; SB51
+C.I. Generic name: Solvent Blue 64; SB64
+C.I. Generic name: Solvent Blue 70; SB70
+C.I. Generic name: Solvent Blue 70; SB70; C.I. Constitution No: 74400
+C.I. Generic name: Solvent Red 1; SR1; C.I. Constitution No: 12150; 2-Naphthalenol, 1-[2-(2-methoxyphenyl)diazenyl]
+C.I. Generic name: Vat Blue 20; VB20; Pigment Blue 65, PB65; C.I. Constitution No: 59800; Violanthrone; Vat Blue 18
+C.I. Generic name: Vat Blue 20; VB20; Pigment Blue 65; PB65; C.I. Constitution No: 59800; Violanthrone; Dibenzanthrone
+C.I. Generic name: Vat Blue 4; C.I. 1106
+Cadmium Orange
+Cadmium Orange Deep
+Cadmium Orange Light
+Cadmium Orange Medium
+Cadmium Red Extra Light
+Cadmium Yellow
+Cadmium Yellow Lemon
+Cadmium Yellow Primrose
+Cadmuim Orange
+Caffeine; 1,3,7-trimethyl-1H-purine-2,6(3H,7H)-dione; 3,7-dihydro-1,3,7-trimethyl-1H-purine-2,6-dione
+Calcite
+Calcium phosphate
+Calcium phosphate (chloride,fluoride)
+Calcium phosphate hydroxide
+Canola oil
+Caraway oil
+Carbon
+Carbon dioxide
+Carbon tetrachloride
+Carotene
+Carrot seed oil
+Carvone
+Cassiterite
+Celestine
+Cellulose
+Cerium oxide
+Cerulean Blue
+Cerussite
+Chalcanthite
+Chalk
+Chlorantin Light Green 5 BLL
+Chlorine
+Chlorite
+Chloroform
+Cholesterol, 3,5-dinitrobenzoate
+Chrome Yellow
+Chrome Yellow Deep
+Chrome Yellow-Orange
+Chromium Oxide Green
+Chromium oxide
+Chromolan Blue RT
+Chromolan Green BL 499
+Chrysoberyl
+Chrysotile
+Cibacron Blau
+Cibanon Dark Blue FMBA
+Cinnabar
+Citric acid, disodium salt
+Cobalt Blue
+Cobalt Green
+Cobalt Yellow
+Cobalt phthalocyanine
+Cobalt(II) silicate; Pigment Blue 33
+Cocaine
+Cocaine HCl
+Cocaine HCl; 3-(Benzoyloxy)-8-methyl- 8-azabicyclo[3.2.1]octane-2-carboxylic acid, methyl ester HCl
+Colloidion; Pyroxylin; Synpor; Parlodion; Pyroxilene; Cellulose nitrate; Flash paper; Gun cotton
+Computer disk
+Copper (I) oxide
+Copper phthalocyanine
+Cordierite
+Coriander oil
+Corundum
+Cotunnite
+Crack cocaine; 3-(Benzoyloxy)-8-methyl- 8-azabicyclo[3.2.1]octane-2-carboxylic acid, methyl ester; Methylbenzoylecgonine
+Crack cocaine; Cocaine; 3-(Benzoyloxy)-8-methyl- 8-azabicyclo[3.2.1]octane-2-carboxylic acid, methyl ester
+Cristobalite
+Crocoite
+Cromophtal Blue
+Cromophtal Blue A3R
+Cromophtal Violet B
+Cumengite
+Cumin oil
+Cuminaldehyde
+Cupric acetate
+Cuprite
+Cyclohexane
+Cyclonite, Hexogen, Cyclotrimethylenetrinitramine
+Cyclotrimethylene trinitramine
+D-Methamphetamine
+D-Methylamphetamine; d-N-alpha-Dimethylphenethylamine; d-Desoxyephedrine; 2-(Methylamino)-1-phenylpropane
+DNT; 1-methyl-2,4-dinitrobenzene; Dinitro
+Dentin
+Deorlin Blue 5
+Dextrose
+Diacetylmorphine
+Diamond
+Diamond like carbon (DLC)
+Diaspore
+Diazepam
+Diazo Genuine Green 2GL
+Dichlorite
+Dihydro-2(3H)-Furanone
+Dillweed oil
+Dimethylsulfoxide
+Dimethylurea
+Diopside
+Dioptase
+Distene, Cyanite
+Dolomite
+Drimaren Blue R-GL
+Drimaren Blue X-3GL
+Drimaren Blue Z-RL
+Drimaren Brillant Green X-36
+Drimaren Navy Blue
+Drimaren Navy Blue R-2RL
+Drimaren Turquoise X-2G
+Duasyn Direct Turquoise Blue FBL
+Duasyn Säureblau
+Dysprosium oxide
+Ecstasy; 3,4-Methylenedioxymethamphetamine
+Egyptian Blue
+Emerald Green
+Enamel
+Enstatite
+Ephedrine HCl
+Epiandrosterone
+Epidote
+Epoxy resin
+Eriochrom Blue SE
+Erionyl Blau
+Eskolaite
+Ethanol
+Eucalyptol
+Euclase
+Fenchone
+Fennel oil
+Fentanyl
+Flexo Blau
+Fluorite
+Folacron
+Forsterite
+Fructose
+GHB
+Gallium nitride
+Gamboge
+Gingelly oil; Til oil
+Glaucophane
+Glucose
+Glucose; Saccaride
+Glycerin
+Gmelinite
+Goethite
+Graphite
+Grossular
+Ground nut oil
+Gypsum
+HOAP; Hydroxylapatite; Durapatite
+Hair (white)
+Heliogen Turquoise
+Helion Turquoise Blue FGLL
+Hematite
+Hematite in Quartz
+Heroin
+Hexane
+Hostaperm Blue
+Hostaperm Violet 2LS
+Hostaperm green
+Hostasol Green G-K
+Hostopen violet
+Hydrogen peroxide
+Hydromagnesite
+Idocrase
+Ilmenite
+Indanthren Dark Blue BOA
+Indian Yellow
+Irgalith Blue
+Irgazin Blue
+Irisol Genuine Blue GLE
+Iron (III) oxide
+Ivory Black
+Jadeite
+Janus Green
+Jarosite
+Kangaroo tendon
+Keratin
+Ketalar HCl; (+/-)-2-(o-Chlorophenyl)-2-(methylamino)cyclohexanone, hydrochloride
+Ketamine HCl
+Kyanite
+L-Methamphetamine
+L-Methylamphetamine; (-)-Desoxyephedrine; (-)-N-Dimethylphenethylamine; (-)-2-(Methylamino)-1-phenylpropane
+Lactose
+Lamp Black
+Langite
+Laurionite
+Lavender oil
+Lazurite
+Lead (II) chromate; Pigment Green 15
+Lead (II) lead (IV) oxide
+Lead Tin Yellow type II
+Lead Tin Yellow type1
+Lead White
+Lead chromate
+Lead oxide
+Lepidocrocite
+Lepidolite
+Levafix Blue E-GRN
+Levafix Blue E-RA
+Levafix Brown E-2R
+Levafix Brown E-RN
+Levafix Green
+Libethenite
+Lidocaine
+Limonene
+Linalool
+Litharge
+Lithopone
+Lyocell
+MDMA
+Magnesite
+Magnesium sulfate, heptahydrate
+Magnetite
+Makrolex Orange
+Makrolex Red
+Malacachita
+Malachite
+Marcasite
+Margarine
+Mars Orange
+Mars Red
+Mars Yellow
+Massicot
+Mendipite
+Mercury (II) oxide
+Mesityl oxide
+Methamphetamine
+Methamphetamine HCl
+Methanol
+Methylamphetamine HCl; 2-(Methyamino)-1-phenylpropane HCl; N-Dimethylphenethylamine HCl; Desoxyephedrine HCl; N-Methyl-1-phenylpropan-2-amine HCl
+Methylamphetamine; 2-(Methyamino)-1-phenylpropane; N-Dimethylphenethylamine; Desoxyephedrine; N-Methyl-1-phenylpropan-2-amine
+Methylbenzoylecgonine HCl
+Methylbenzoylecgonine free base
+Methylene Blue
+Methylurea
+Microcline
+Milk sugar
+Mimetite
+Modal
+Molybdenum oxide
+Mortoperm Blue
+Muscovite
+Mylar; Terylene; Tergal; Dracon
+N-(1-(2-Phenylethyl)-4-piperidinyl)-N-phenylpropanamide
+N-Methyl-N,2,4,6- tetranitroaniline; N-Methyl-N,2,4,6-tetranitrobenzolamine; N-Picryl-N-methylnitramine; 2,4,6-Trinitrophenyl-N-methylnitramine
+Naples Yellow
+Neolan Green 8G
+Neolan Green BL
+Neozapon Blue 806
+Neozapon Blue FLE
+Neptune Blue 698
+Neptune Blue 722
+Nile Blue
+Niobium (III) oxide
+Nitrocellulose
+Nitrogen
+Nitrogene
+Novocaine HCl; p-Aminobenzoic acid, diethylaminoethyl ester HCl; 2-Diethylaminoethyl-4-aminobenzoate hydrochloride
+Octadec-9-enoic acid; Elainic acid
+Octene
+Oil of anise
+Oil of spike lavender
+Oleic acid
+Olive oil
+Olivine (Mg,Fe)2SiO4
+Orasol Khaki Green G
+Orpiment
+Orthoclase
+Oxygen
+PC; Lexan; Merlon
+PCL
+PE
+PEA(Phenethylamine)
+PEA(Phenethylamine) base
+PETN; Penthri; NF; Nitropentaerythritol; Tetramethoxymethane tetranitrate; [3-Nitrooxy-2,2-bis(nitrooxymethyl)propyl] nitrate
+PTFE
+PVA
+PVDF
+PVOH
+Pararealgar
+Peanut oil
+Pentaerythriol tetranitrate
+Perchloromethane; Tradenames: Benzinoform, Freon 10, Halon 104, Tetrasol, Tetraform
+Perhydrol
+Permanent Bordo (red)
+Permanent Bordo (violet)
+Phosgenite
+Pigment Orange 36
+Pigment Orange 43
+Pigment Orange 48
+Pigment Orange 62
+Pigment Red 108
+Pigment Red 112
+Pigment Red 122
+Pigment Red 168
+Pigment Red 170
+Pigment Red 179
+Pigment Red 188
+Pigment Red 209
+Pigment Red 88
+Pigment Violet 19
+Pigment Yellow 108
+Pigment Yellow 139
+Pigment Yellow 151
+Pigment Yellow 154
+Pigment Yellow 175
+Pigment Yellow 42
+Pigment Yellow 83
+Pigmosol Green
+Plasticine
+Plattnerite
+Plexiglass
+Plumbonacrite
+Polar Blue
+Polyamide 6
+Polyamide 6,6
+Polyamide 6-10
+Polyisoprene
+Posnjakite
+Potassium bicarbonate
+Potassium chlorate(VII); Perchloric acid, potassium salt; Peroidin
+Potassium hydrogencarbonate
+Potassium nitrate
+Potassium perchlorate
+Potassium sulfate
+Procaine HCl
+Provitamine A
+Prussian Blue
+Pseudoephedrine HCl
+Pseudomalachite
+Purpurin
+Pyridine
+Pyrite
+Pyromellitimide
+Pyromorphite
+Pyrophillite
+Quartz
+RDX; 2,4,6-Trinitro-1,3,5-triazacyclohexane; 1,3,5-Trinitro-1,3,5-triazacyclohexane
+Raw Sienna
+Raw Umber
+Reactive Blue; Sulphatoethylsulfone
+Realgar
+Red Ochre
+Red Smoke 1
+Red earths
+Remastral Blue F3GL
+Remazol Blue 3R
+Remazol Blue RR
+Remazol Brillant Blue BB
+Remazol Brillant Green 6B
+Resolin Blau
+Rhodocrocite
+Rhodocrosite
+Rutile
+SAN
+Saccaride
+Safflower oil
+Saffron
+Saltpetre; Nitrate of potash; Vesta powder
+Sanidine
+Savinyl Blue
+Scheele's Green
+Schorl
+Sepisol Fast Blue 2BD
+Serpentine
+Sesame oil
+Setacyl Blue P-RBL
+SiO2 Glass
+Siderite
+Silicon
+Silicon oxide
+Silicone
+Silotrans red
+Silver nitrate
+Sinhalite
+Sirius Green G
+Sirius Light Blue
+Sirius Light Green BBL
+Sirius Light Green BTL
+Sirius Light olive Green GL
+Smalt
+Smithonite
+Sodalite
+Sodium calcium borate hydroxide hydrate
+Sodium hydrogen carbonate
+Sodium nitrite
+Sodium perborate, tetrahydrate
+Sodium peroxide
+Sodium sulfate
+Sodium thiosulfate pentahydrate
+Sodium thiosulfate, pentahydrate
+Sodium(6-amino-5-((2-hydroxy-4-nitrophenyl)azo)naphthalene-1-sulphonato(3-)hydroxychromate(1-); Acid Green 12
+Solanmin Light Blue DHZ
+Solar Blue F
+Solar Brillant Blue
+Solvent Red
+Sphalerite
+Sphene
+Spike lavender oil
+Spodumene
+Starch
+Stibnite
+Stilbite
+Stolzite
+Strontianite
+Strontium Yellow
+Sulfanilamide
+Sulfur
+Sweet Almond oil; Sweet Amygdale oleum; Almond oil from prunusdulcis; Expressed almond oil; Oil of sweet almond
+TCP; Tricalcium phosphate
+Talc
+Tenorite
+Terre Verte
+Terre verte
+Tetracaine HCl
+Tetryl
+Thymolblau, Thymol Blau, Thymol Blue
+Thymolsulfonphthalein
+Thyorid tissue
+Titanite
+Titanium dioxide; pigment: C.I. Generic Name: Pigment White 6; PW 6; C.I. Constitution No.: 77891
+Titanium oxide
+Toluene
+Toluidine Blue O
+Tooth
+Topaz
+Tourmaline
+Tourmaline group: Schorl, Elbaite
+Tremolite
+Tricalcium phosphate
+Trichloromethane; Methyl trichloride
+Trichloropyrimidine; Reactive Blue
+Tridymite
+Trinitrotoluene
+Tungsten trioxide
+Ulexite
+Urea
+Van Dyke Brown
+Vanadite
+Vanadium oxide
+Vanadnita
+Variscite
+Verdigris (no1)
+Verdigris (no2)
+Verdigris (raw)
+Vermilion
+Vesuvianite
+Victoria Blue
+Vine Black
+Viridian
+Water
+Wofasol Genuine Navy Blue
+Wool fiber
+Wulfenite
+Yellow Ochre
+Zapon Blue 806
+Zinc White
+Zinc Yellow
+Zinc sulfate, heptahydrate
+Zinc sulfide
+Zincite
+Zircon
+Zirconium oxide
+[10,13-Dimethyl-17-(6-methylheptan-2-yl)-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-yl] 3,5-dinitrobenzoate
+a-Phellandrene
+a-Pinene
+alpha-1-(Methylamino)ethylbenzyl alcohol HCl
+b-Pinene
+gamma-Butyrolactone
+gamma-Hydroxybutyric acid, sodium salt; gamma-Hydroxybutyrate Na; 4-Hydroxybutanoate Na, gamma-Hydroxybutyrate Na, 4-Hydroxybutanoic acid, sodium salt
+p-(2,5-Diphenyl-1,3,4-oxadiazole)
+p-(Acrylamide)
+p-(Acrylamide-co-acrylic acid, sodium salt)
+p-(Acrylic acid)
+p-(Aryletherketone)
+p-(Butadiene)
+p-(Butadiene-co-styrene-co-butadiene)
+p-(Butyl methacrylate-co-isobutylmethacrylate)
+p-(Butyl terephthalate)
+p-(Caprolactone)
+p-(Carbonate)
+p-(Ether sulfone)
+p-(Ethylene oxide)
+p-(Ethylene terephthalate)
+p-(Ethylene)
+p-(Ethylene) HD
+p-(Ethylene) LD
+p-(Ethylene-co-acrylic acid)
+p-(Ethylene-co-vinylacetate)
+p-(Ethylmethacrylate)
+p-(Formaldehyde)
+p-(Hexamethylene dodecanediamide)
+p-(Hexamethylenesebacamide)
+p-(Hydantoin)
+p-(Iminocarbonylpentamethylene)
+p-(Iminohexanmethyleneiminoadipoyl)
+p-(Isobutyl methacrylate)
+p-(Laurolactam)
+p-(Methyl methacrylate)
+p-(Methylpentene)
+p-(N-Vinyl pyrrolidone)
+p-(Oxymethylene)
+p-(Propylene)
+p-(Styrene)
+p-(Styrene-co-acrylonitrile)
+p-(Styrene-co-allyl alcohol)
+p-(Styrene-co-butadiene)
+p-(Styrene-co-maleic anhydride)
+p-(Sulfone)
+p-(Tetrafluoroethylene)
+p-(Tetramethylene terephthalate)
+p-(Vinyl acetate)
+p-(Vinyl alcohol)
+p-(Vinyl butyral)
+p-(Vinyl chloride)
+p-(Vinyl chloride-co-vinylacetate)
+p-(Vinylidene fluoride)
+p-(cis-1,4-Isoprene)
+p-(meta-Phenylene terephthalamide)
+p-(n-Butylamethacrylate)
+p-(p-Phenylene terephthalamide)
+p-(p-Phenylene terephthalmide)
+p-Cymene
+p-[N,N'-bis-(Phenoxyphenylpyromellitimide)]
+probably Hematoide
+trans-Anethole 

@@ -5,23 +5,30 @@
 
 #include <vector>
 #include <string>
-#include <fstream>
+#include <istream>
 
-//! simple class to read and parse a spectrum from a CSV file (lines with x, y pairs)
+//! Represents a spectral measurement which KIAConsole is asked to identify.
+//! In enlighten.KIAWrapper, this would correspond to a KIARequest.
 class Measurement
 {
     public:
+        int pixels = 1024;
+        int max_results = 20;
+        double min_confidence = 0.60;
         std::vector<double> y;
         std::vector<double> x;
-        std::wstring pathname;
 
-        Measurement(const std::wstring& pathname);
-        Measurement(int pixels);
+        std::wstring pathname;                      //!< if loaded from an external file, vs streaming
+
+
+        Measurement(const std::wstring& pathname);  //!< instantiate from an external file
+        Measurement();                              //!< stream from stdin
 
         bool isValid() const;
+        bool isQuit = false;
 
     private:
-        void load(std::istream& infile, int pixels = 0);
+        void load(std::istream& infile);
         bool valid = false;
 };
 

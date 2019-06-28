@@ -21,6 +21,8 @@ class Util
         static std::string toLower(const std::string& s);
         static std::wstring clean(const wchar_t* s);
         static void log(const wchar_t* format, ...);
+        static std::string sstring(const char* format, ...);
+        static std::wstring timestamp();
 
         static bool startswith(const std::string& s, const std::string& prefix)
         {

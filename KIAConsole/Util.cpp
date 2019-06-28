@@ -3,6 +3,7 @@
 #include "Util.h"
 
 #include <sstream>
+#include <cwchar>
 
 #include <AtlBase.h>
 #include <atlconv.h>
@@ -43,7 +44,6 @@ string Util::toLower(const string& s)
     return lc;
 }
 
-// remove forbidden characters from compound names (we need something we can use to bracket names in regex)
 wstring Util::clean(const wchar_t* s)
 {
     wstring orig(s);
@@ -53,6 +53,29 @@ wstring Util::clean(const wchar_t* s)
             dest += orig[i];
     return dest;
 }
+
+//! print a single timestamped log line to console with linefeed
+string Util::sstring(const char* format, ...)
+{
+    char buf[256];
+
+    va_list args;
+    va_start(args, format);
+    vsnprintf(buf, sizeof(buf), format, args);
+    va_end(args);
+    return string(buf);
+}
+
+wstring Util::timestamp()
+{
+    char buf[32] = { 0 };
+    time_t now = time(NULL);
+    string(ts) = ctime(&now);
+    ts[ts.length() - 1] = 0;
+    snprintf(buf, sizeof(buf), "%s ", ts.c_str());
+    return toWstring(buf);
+}
+
 
 //! print a single timestamped log line to console with linefeed
 void Util::log(const wchar_t* format, ...)

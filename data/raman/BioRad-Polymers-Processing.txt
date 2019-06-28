@@ -1,0 +1,623 @@
+(1,9-Diphenyl-1,3,6,8-nonatetraen-5-one)
+(1R,2S,5R)-(-)-Menthol
+1,1'-Azobis(formamide)
+1,1,1,1-Tetrachloromethane
+1,2,3-Benzotriazole
+1,2,4-Trichlorobenzene
+1,2-Dichlorobenzene
+1,2-Dihydroxyethane
+1,2-Ethanediol
+1,3,5-Trimethoxybenzene
+1,4,7,10-Tetraazadecane
+1,4-Butanedicarboxylic acid
+1,5-Diphenylpentadien-3-one
+1-Octadecanol
+1-Octanesulfonyl chloride
+1-Pyrrolidinecarbodithioic acid, ammonium salt
+1H-Benzotriazole
+2,2'-Dithiobis(5-nitropyridine)
+2,2'-Dithiodiglycolic acid
+2,2,2-Trifluoroethan(ol-d)
+2,2-Bis(hydroxymethyl)-1,3-propanediol
+2,2-Dimethoxypropane
+2-Aminoethanol
+2-Aminomethylbenzene
+2-Butanone
+2-Ethylhexanoic acid
+2-Ethylhexyl sulfate, sodium salt
+2-Hydroxy-2-phenylacetophenone
+2-Hydroxyethanesulfonic acid, sodium salt
+2-Methyl-2-propanol
+2-Methylbenzenamine
+2-Propanone
+2-Toluidine
+3,3-Bis(4-hydroxyphenyl)-1-(3H)-isobenzofuranone
+3,3-Bis(4-hydroxyphenyl)phthalide
+3,5,5-Trimethylhexanoic acid
+3,7-Diamino-5-phenothiazinium chloride
+3-Sulfopropyl methacrylate, potassium salt
+4,4-Bis(dimethylamino)thiobenzophenone
+4,5-Dihydroxy-3-[(p-sulfophenyl)azo]-2,7-naphthalenedisulfonic acid, trisodium salt
+4-(2-Hydroxyethyl)-1-piperazineethanesulfonc acid
+4-Aminoantipyrine
+5,5'-Dithiobis(2-nitrobenzoic acid)
+A 20
+ABS
+AC-316A
+AC-395
+AC-617A
+AC-629A
+AO-14-2
+AS-1550
+Acetamide
+Acetic acid, ethyl ester
+Acetone
+Acetonitrile
+Acrawax C
+Acrox Antifoam 8080
+Acrylonitrile/PMMA blend 20%PMMA
+Acrylonitrile/PMMA blend 40%PMMA
+Adipic acid
+Advalube B-3202
+Aerosol A-103
+Aesno P40 ITL
+Aesno P40 TL
+Aesno TL
+Aluminum potassium sulfate
+Amberlyst-R 16
+Ammonium acetate, hydrated
+Ammonyx Mo
+Amphoteric 400
+Ampyrone
+Antimony oxide
+Antimony trioxide
+Aristowax 165
+Azabenzene
+Azine
+Azodicarbonamide
+BMN P10, BLK TLD-1
+BTA III F
+BYK-Catalyst 451
+Barium stearate
+Bayer FT-248
+Bayer FT-248R
+Benzoin
+Benzotriazole
+Berol 226
+Berol 251
+Berol 266
+Berol 563
+Besno 01963
+Besno 20 TL
+Besno P40 TL
+Besno P40 TL PE, end vis-extruder 1
+Besno P40 TL3
+Besno P40 TLM
+Besno P40 TLX 05
+Biosoft N300
+Bis(2-hydroxyethyl)(methylsulfonyl)amine
+Bis(2-hydroxyethyl)(methylsulfonyl)amine, hydrated
+Bis(3-carboxy-4-nitrophenyl) disulfide; 3-Carboxy-4-nitrophenyl disulfide
+Bis(tri-n-butyltin)oxide
+Bis(tridodecyltin)oxide
+Blendex 435
+Block Copolymer, reference
+Borax
+Butyl acrylate
+CNF-1727
+CPE
+Calcite
+Calcium carbonate
+Calcium chloride
+Calcium chloride, dihydrate
+Calcium dichloride
+Calcium stearate
+Calsoft L-40
+Caprolactam
+Carbon tetrachloride
+Carboxyl terminated polyester with a polyepoxy, coating formulation
+Carnation mineral oil
+Castor Wax
+Cedephos FA 600
+Celogen AZRV
+Chemax OP 10
+Chlorinated polyethylene
+Chloroform
+Chlorotri-n-butylstannane
+Chlorotributyltin
+Clearstrength 380
+Clearstrength C100
+Clearstrength C102
+Clearstrength C110
+Clearstrength C202
+Clearstrength C223
+Clearstrength C303H
+Clearstrength L1000
+Clearstrength W500
+Copolyamide HX2536T
+Cyanomethane
+Cyasorb UV-511
+Cyasorb UV-531
+Cyclohexane
+DLTDP 5935-20
+DMESAM
+DMMSAM
+DMMSAM, hydrated
+Desonic 1296
+Desonic LFA 144
+Di-n-butyl-S,S'-bis(isooctylmercaptoacetate)tin, 95%
+Di-n-butyldichlorotin
+Dichloromethane
+Dicinnamalacetone
+Diethyl ether
+Diethylene glycol monohexyl ether
+Dimethoxypropane
+Dimethyl ethanesulfonamide
+Dimethyl ketone
+Dimethyl lauryl amine oxide
+Dimethyl methanesulfonamide
+Dimethyl methanesulfonamide, hydrated
+Dioctyltin mercaptoacetate
+Dioctyltin-S,O-mercaptoacetate (cyclic)
+Durastrength D-200
+Durastrength D-200L
+E-115
+E-900
+EDTA disodium salt, dihydrated
+EVA
+EXL 2600
+EXL 3330
+EXL 3361
+EXL 3647
+EXL 5375
+Ethanedioic acid
+Ethanenitrile
+Ethanesulfonic acid
+Ethanol
+Ethanolamine
+Ether
+Ethomeen C/25
+Ethoquad 18/12
+Ethoxylated octylphenol
+Ethyl acetate
+Ethyl alcohol
+Ethyl hydroxide
+Ethyl nitrile
+Ethylene alcohol
+Ethylene bis-dithiocarbamic acid, disodium salt, hexahydrate
+Ethylene glycol
+Ethylene trichloride
+Ethylene vinylacetate
+Ethylenediaminetetraacetic acid, disodium salt, dihydrate
+Exxon A-17-2
+FM-20
+Fascat 2001
+Fascat 2003
+Fascat 4100
+Fascat 4201
+Fascat 4350
+Fina 517W
+Fina 58B
+Fina 620PO
+Fina 625PO
+Fina 680PO
+Fina 830PO
+Fina 960E
+Fina 965E
+Fina Block copolymer
+Fina homopolymer
+Finaclear 520
+Finaprene 401
+Finaprene 411
+Finaprene 502
+Finaprene 602D
+Flow cell
+Fumetrol 140
+Fumetrol 210
+Glycol
+H 38, Nylon 6 Nylon 66 copolymer
+H-30, Nylon 6 Nylon 66 copolymer
+HDPE 1288
+HDPE 2287
+HDPE 5502
+HEMA
+HEPES Acid
+Hexa-n-butylditin
+Hexabutyl distannoxane
+Hexahydro-2H-azepin-2-one
+Hexahydrobenzene
+Hexamethylene
+Hexanaphthene
+Hexane
+Hexanedioic acid
+Hexyl carbitol
+High ethylene RCP
+High impact polystyrene/PMMA blend 20%PMMA
+High impact polystyrene/PMMA blend 35%PMMA
+Homopolymer, reference
+Hub seal from reactor
+Hydroxyethylmethacrylate
+Hydroxymethane
+Hylar MP20
+Iganox 1222
+Igepal CA-620
+Igepal CO-520
+Igepal CO-710
+Irgafos 168
+Irgafos 38
+Irganox 1010
+Irganox 1076
+Irganox 1135
+Irganox 245
+Irganox PS802
+Isethionic acid, sodium salt
+Isononanoic acid
+K-120
+K-120ND
+K-125
+K-175
+K-460
+KANE ACE B-11
+KANE ACE B-12
+KANE ACE B-22
+KANEKA CPVC H727
+KM-323B
+KM-330
+KM-334
+KM-355
+KM-377
+KM-941
+Kynar 1000
+Kynar 2500-20
+Kynar 2750-01
+Kynar 2751-00
+Kynar 2751-01
+Kynar 2800-00
+Kynar 2800-01
+Kynar 2800-20
+Kynar 2820-00
+Kynar 2821-00
+Kynar 285-00
+Kynar 2850-00
+Kynar 2850-00 SPC
+Kynar 2850-01
+Kynar 2850-02
+Kynar 2850-04
+Kynar 2851-00
+Kynar 2900
+Kynar 2900-02
+Kynar 2900-03
+Kynar 2900-04
+Kynar 2900-05, plaque
+Kynar 2950-02
+Kynar 2950-05
+Kynar 3120-15
+Kynar 3120-50
+Kynar 460
+Kynar 500
+Kynar 710
+Kynar 720
+Kynar 731
+Kynar 740
+Kynar 741
+Kynar 760
+Kynar 761
+L-Tartaric acid
+Lanthanum chloride
+Lauth's violet
+Loctite PST 520
+Lotader AX8840
+Lotryl 24MA005
+Low ethylene RCP
+Loxiol 2063
+Loxiol G-30
+Loxiol G-70
+Loxiol G-705
+Loxiol HOB 7107
+Loxiol HOB 7111
+Loxiol HOB 7131
+MEK
+MMA
+MMSAM
+MPD91 acrylic/styrene copolymer
+MS 455
+MSAM
+MSAM, hydrated
+MSC
+Makon NF-5
+Mercaptoacetic acid, dioctyltin
+Mesyl chloride
+Metapirazone
+Methaneammonium chloride, hydrated
+Methanecarbonitrile
+Methanesulfonamide
+Methanesulfonamide, hydrated
+Methanesulfonic acid
+Methanesulfonic acid, sodium salt
+Methanesulfonic acid, sodium salt, hydrated
+Methanesulfonyl chloride
+Methanol
+Methyl alcohol
+Methyl cyanide
+Methyl ethyl ketone
+Methyl ketone
+Methyl methacrylate
+Methyl methanesulfonamide
+Methylammonium chloride, hydrated
+Methylene chloride
+Methylene dichloride
+Methylene trichloride
+Monafax 939
+Monamid 150 ADY
+Monamid 759
+Monaterge LF 945
+Monateric 1000
+Monomer polyamide 11
+Monomer polyamide 12
+N,N'-Bis(aminoethyl)ethylenediamine
+N,N'-Ethylenebisstearamide and stearic acid
+N-2-Hydroxyethylpiperazine-N'-2-ethanesulfonic acid
+NaISA
+Neodol 25-12
+Neodol 91-6
+Niaproof 08
+Ninol 11-CM
+Nitromethane
+Nylon 11 + low viscosity resin
+Nylon 6 Nylon 66 Nylon 12
+Nylon 6 Nylon 66 copolymer
+Nylon11 + low viscosity resin
+OPE
+Octadecanoic acid
+Octadecanoic acid, barium salt
+Octadecanoic acid, zinc salt
+Octadecyl 3,5-di-(tert)-butyl-4-hydroxyhydrocinnamate
+Octylphenoxypoly(ethyleneoxy)ethanol
+Orgalloy LT 50/50
+Organic PVC heat stabilizer
+Oroglas MI-4T
+Oxalic acid
+Oxidized polyethylene wax
+PA-1121
+PCG LV RND, Nylon 11 + low viscosity resin
+PEBAX 2533 SA01, Nylon 12 + B6, unstabilized
+PEBAX 3533 SN01, Nylon 12
+PEBAX 4033 SA01, Nylon 12
+PEBAX 4033 SN01, Nylon 12
+PEBAX 6333 SN01, Nylon 12
+PEBAX 7033 SA01, unstabilzed, Nylon 12
+PEBAX 7033 SN01 Nylon 12
+PEBAX 7233 SA01, Nylon 12
+PEBAX 7233 SA01, unstabilized, Nylon12
+PEBAX 7233 SN01, Nylon 12 - PTMG 250
+PEBAX 7233 SN01, Nylon 12
+PEBAX 9-121, Nylon 11 plasticizied - TL89 stabilizer
+PM 5502
+PMMA
+PV-1003
+PVC
+PVC flexible packaging formulation
+PVDF
+PVDF Seed (K-710 grade)
+PVDF/PMMA 70/30 wt%
+Pentaerythritol
+Pentaerythrityl tetrakis(3-dodecylthiopropionate)
+Perspex CP-924
+Phenolphthalein
+Phosphorous acid, bis[2,4-bis(1,1-dimethylethyl)-6-methylphenylethyl ester]
+Plasticized Nylon 6,6,6
+Plastistrength L1000
+Plastistrength P501
+Plastistrength P530
+Plastistrength P550
+Plastistrength P551
+Plastistrength P552
+Plastistrength P700
+Plastistrength P710
+Plexiglas CP-1000-E
+Plexiglas DR-100
+Plexiglas DR-100-NA
+Plexiglas DR-101
+Plexiglas DRF-100
+Plexiglas DRT 101
+Plexiglas HFI-10
+Plexiglas HFI-10-NA
+Plexiglas HFI-7
+Plexiglas MI-7-101
+Plexiglas PDR 513-A
+Plexiglas PRD 289
+Plexiglas PRD 389
+Plexiglas PRD 501
+Plexiglas T-101.2
+Plexiglas V052-100
+Plexiglas V826-100
+Plurafac A-38 prill
+Plurafac A-39 prill
+Plurafac D25
+Poly(butyl methacrylate)
+Poly(methyl methacrylate methyl acrylic acid) copolymer (93%MMA, 7%MAA)
+Poly(methyl methacrylate methyl acrylic acid) copolymer (95.5%MMA, 4.5%MAA)
+Polyamide 11/Polyamide 12/Polyolefin copolymer
+Polyamide EMO 67 HSP
+Polyethylene (15) cocoamine
+Polymer 1180
+Polymer 1190
+Polymer 1195
+Polymethylmethacrylate
+Polypropylene
+Polypropylene 3429
+Polypropylene 4620WZ
+Polypropylene 5724WZ
+Polypropylene EOD
+Polypropylene EOD 00-07
+Polypropylene EOD 00-31
+Polytetramethylene glycol 1000
+Polytetramethylene glycol 2000 liquid
+Polytetramethylene glycol 2000 solid
+Polytetramethylene glycol 650
+Polyvinylidene fluoride
+Potassium hydrogen sulfate
+Potassium persulfate
+Pyridine
+Pyridine-d5
+RC-10089
+RDG-162, Besto P40 TL 3
+RDG-214
+RDG-219
+RL-3155 lubricant
+Random Copolymer, Reference
+Rewoteric AM
+Rubber bulb
+SAG 1010
+SAG 275D
+SL 5
+SLS
+SMA 1000
+SMA 1440
+SMA 17352
+SMA 2000
+SMA 2625
+SMA 3000
+SMA 3840
+SMA EF40
+SMA Imide
+SPM
+Seenox 412S
+Servamine KW 100
+Sodium 2-ethylhexyl sulfate, 40% conc.
+Sodium allyl sulfonate
+Sodium bicarbonate
+Sodium bisulfite
+Sodium dodecyl sulfate
+Sodium hydrogencarbonate
+Sodium hydrogenphosphate
+Sodium lauryl sulfate
+Sodium linear alkylbenzene sulfonate liquid
+Sodium phosphate hydrated
+Sodium tetraborate, decahydrate
+Solarkote H
+Solarkote H, L15-C5
+Solef PVDF 1010
+Solef PVDF 6010/0001
+Solef-HP10
+Stannous oxide
+Stearate acid, barium salt
+Stearic acid
+Stearic acid, calcium salt
+Stearic acid, zinc salt
+Stearyl alcohol
+Stenol
+Stepfac 8170
+Sucrose
+Sugar
+Sulfamic acid
+Superfex 200
+Surfactant
+Surmax C 727
+TCE
+TETA
+THF
+TL 89 conc, end extruder 3, 6% TL89 conc
+TLP-2030
+TLX 05, Nylon 11 plasticizer - TL 89 stabilizer
+Tergitol 15 S 12
+Tergitol D 683
+Tergitol MDS 42
+Tergitol MIN foam 2x
+Tergitol TMN 3
+Tergitol TMN 6
+Tergitol x5
+Tetra-n-butylstannane
+Tetra-n-butyltin
+Tetrabutylammonium iodide
+Tetrabutyltin
+Tetrachloromethane
+Tetraethylammonium bromide
+Tetrahydrofuran
+Tetrakis[methylene(3,5-di-tert-butyl-4-hydrocinnamate)methane]
+Tetraphenylphosphonium bromide
+Tetronic 1104
+Tetronic 1304
+Tetronic 304
+Tetronic 704
+Tetronic 8170
+Tetronic 904
+Thermolite-108
+Thermolite-12
+Thermolite-13
+Thermolite-137
+Thermolite-161
+Thermolite-172
+Thermolite-176
+Thermolite-176C
+Thermolite-178
+Thermolite-20
+Thermolite-31
+Thermolite-31 HF
+Thermolite-310
+Thermolite-31S
+Thermolite-340
+Thermolite-390
+Thermolite-42
+Thermolite-525
+Thermolite-813
+Thermolite-831
+Thermolite-890
+Thermolite-890S
+Thermolite-892
+Thionin
+Thymolphthalein
+Tin II oxide
+Tin monoxide
+Titanium oxide
+Tri-n-butylchlorotin
+Tributoxyvinylsilane
+Tributyltin chloride
+Tributyltin/Tetrabutyltin chloride blend 50%
+Tributyltinchloride
+Trichloroethene
+Trichloroethylene, stabilized
+Trichloromethane
+Triethyleneglycol bis[3-(3-(tert)-butyl-4-hydroxy-5-methylphenyl)propionate]
+Triethylenetetramine
+Triphenylphosphine
+Tris(2,4-di-(tert)-butylphenyl) phosphite
+Triton DF-16
+Triton X-100
+Unplasticized Nylon 6,6,6
+Unplasticized PEBAX
+VF2/HFP copolymer, %HFP 5.4
+VF2/HFP copolymer, %HFP=11.900
+VF2/HFP copolymer, %HFP=12.433
+VF2/HFP copolymer, %HFP=12.766
+VF2/HFP copolymer, %HFP=14.033
+VF2/HFP copolymer, %HFP=17.533
+VF2/HFP copolymer, %HFP=18.566
+VF2/HFP copolymer, %HFP=19.000
+VF2/HFP copolymer, %HFP=3.466
+VF2/HFP copolymer, %HFP=3.733
+VF2/HFP copolymer, %HFP=5.033
+VF2/HFP copolymer, %HFP=5.533
+Valfor 100 Zeolite
+Varox 365
+WL227
+Wax 1032
+Wax 9090
+Wax 9091
+Wax E
+White star
+Wood alcohol
+XL-165
+XL-200
+XL-355
+XL-455 wax
+Zinc stearate
+Zytel FN 727, plasticized Nylon 6
+Zytel ST 811, Super tough PA Nylon 6
+[[3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl]methyl]phosphonic acid, diethyl ester
+epsilon-Caprolactam
+n-Hexane
+o-Aminotoluene
+o-Methylaniline
+o-Toluidine
+tert-Butyl alcohol 

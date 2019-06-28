@@ -1,0 +1,91 @@
+Aluminium Gallium Arsenide
+Aluminium Indium Arsenide
+Aluminium Nitride
+Aluminium Oxide
+Antimony Oxide
+Antimony Sulfide
+Arsenic Sulfide
+Beryllium oxide
+Bismuth Gadolinium Oxide
+Bismuth Indium Selenide
+Bismuth Selenide
+Boron Nitride
+Cadmium Indium Sulfide
+Cadmium Sulfide
+Calcium Fluoride
+Calcium Titanium Oxide
+Carbon
+Carbon 60
+Carbon 70
+Carbon Black
+Chalcopyrite
+Copper Oxide
+DLC (diamond like carbon)
+DLC 532 (diamond like carbon)
+DLC 633 (diamond like carbon)
+DLC 785 (diamond like carbon)
+Gallium Antimony Arsenide
+Gallium Arsenide
+Gallium Arsenide on Silicon
+Gallium Indium Phosphide
+Gallium Nitride
+Gallium Nitride on Sapphire
+Gallium Selenide
+Germanium
+Graphite
+Hydrogen peroxide
+Indium Antimony Arsenide/ Indium Arsenide SL
+Indium Antimony Arsenide/Indium Arsenide SL
+Indium Arsenide
+Indium Gallium Arsenide
+Indium Gallium Arsenide on Aluminium Indium Arsenide
+Indium Gallium Arsenide on Indium Phosphide
+Indium Gallium Arsenide on indium Phosphide
+Indium Gallium Arsenide/Gallium Arsenide SL
+Indium Gallium Nitride on Gallium Nitride
+Indium Gallium Nitride on Gallium Nitride on Sapphire
+Indium Oxide
+Indium Phosphide
+Indium Sulfoselenide
+Iron Chromium Oxide
+Iron Oxide
+Iron Sulfide
+Lead Oxide
+Lithium Niobate
+Magnesium Aluminium Oxide
+Manganese Indium Gallium Sulfide
+Manganese Indium Sulfoselenide
+Manganese Zinc Sulfoselenide
+Mercury Oxide
+Molybdenum Oxide
+Molybdenum Sulfide
+Molybenum Oxide
+Neodymium Copper Oxide
+Nickel Sulfide
+Niobium Telluride
+Orpiment
+Silicon
+Silicon Carbide
+Silicon Carbide 15R
+Silicon Carbide 3C
+Silicon Carbide 6H
+Silicon Germanium SL
+Silicon Nitride
+Silicon Oxide
+Silicon amorphous
+Silicon microcrystalline
+Silicon microcrystalline/Silicon
+Silicon microcrystalline/Zinc Oxide
+Silicon polycrystalline on substrate
+Silicon polycrystalline/substrate
+Tellurium
+Tin Oxide
+Titanium Oxide
+Vanadium Oxide
+Yttrium Barium Copper Oxide
+Zinc Oxide
+Zinc Selenide
+Zinc Sulfide
+Zinc Telluride
+Zirconium Oxide
+Zirconium Silicate 
