@@ -10,5 +10,5 @@
 #                                                                              #
 ################################################################################
 
-cp -v KIAConsole/Debug/KIAConsole.exe ../enlighten/dist
+cp -v KIAConsole/Release/KIAConsole.exe ../enlighten/dist
 

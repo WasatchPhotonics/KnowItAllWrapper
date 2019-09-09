@@ -155,7 +155,7 @@ bool processMeasurement(const Measurement& m)
 {
     auto start = system_clock::now();
 
-    Util::log(L"Begin processing (%ls)", Util::timestamp().c_str());
+    Util::log(L"Begin processing");
     SEARCHSDK_HANDLE hSearch = s_SearchSDK_OpenSearchFn();
     if (NULL == hSearch)
         return false;
@@ -164,7 +164,7 @@ bool processMeasurement(const Measurement& m)
     SearchSDK_Match* matches = new SearchSDK_Match[m.max_results];
     int matchCount = m.max_results;
 
-    Util::log(L"Calling RunSearchUnevenlySpaced (%ls)", Util::timestamp().c_str());
+    Util::log(L"Calling RunSearchUnevenlySpaced");
     s_SearchSDK_RunSearchUnevenlySpacedFn(
         hSearch, 
         SEARCHSDK_TECHNIQUE_RAMAN,
@@ -196,7 +196,7 @@ bool processMeasurement(const Measurement& m)
     s_SearchSDK_CloseSearchFn(hSearch);
     delete[] matches;
 
-    Util::log(L"Processing complete (%ls)", Util::timestamp().c_str());
+    Util::log(L"Processing complete");
     return true;
 }
 
@@ -263,7 +263,7 @@ void processStream(const Options& opts)
 
 int main(int argc, char** argv)
 {
-    Util::log(L"KIAConsole version %ls (%ls)", VERSION.c_str(), Util::timestamp().c_str());
+    Util::log(L"KIAConsole version %ls", VERSION.c_str());
 
     // parse command-line arguments
     Options opts(argc, argv);

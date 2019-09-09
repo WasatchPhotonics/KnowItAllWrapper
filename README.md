@@ -8,6 +8,11 @@ This was adapted from the ID-SDK "sample code" posted here:
 
 The goal will be to extend this to make it easy to call from ENLIGHTEN via Python.
 
+# Dependencies
+
+- Bio-Rad KnowItAll
+    - https://get.knowitall.com 
+
 # API
 
 See vendor docs here:

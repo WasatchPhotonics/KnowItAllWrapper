@@ -69,7 +69,7 @@ void Measurement::load(istream& is)
         }
         else if (Util::startswith(line, "QUIT"))
         {
-            Util::log(L"QUIT received...shutting down (%ls)", Util::timestamp().c_str());
+            Util::log(L"QUIT received...shutting down");
             isQuit = true;
             return;
         }

@@ -80,12 +80,12 @@ wstring Util::timestamp()
 //! print a single timestamped log line to console with linefeed
 void Util::log(const wchar_t* format, ...)
 {
-    /*
+    // all OUTPUT starts with KIA:, making debugging easier (logfile will also 
+    // contain streaming input from ENLIGHTEN)
     time_t now = time(NULL);
     string(ts) = ctime(&now);
     ts[ts.length() - 1] = 0;
-    printf("%s ", ts.c_str());
-    */
+    printf("KIA: %s ", ts.c_str());
 
     va_list args;
     va_start(args, format);
