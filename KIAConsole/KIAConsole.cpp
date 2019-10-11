@@ -179,7 +179,18 @@ bool processMeasurement(const Measurement& m)
     auto end = system_clock::now();
     duration<double> elapsedSec = end - start;
 
-    Util::log(L"Found %d matches in %0.2lf sec", matchCount, elapsedSec); // matched by KIAWrapper
+    // count matches that meet the threshold
+    int validCount = 0;
+    for (int i = 0; i < matchCount; i++)
+    {
+        SearchSDK_Match& match = matches[i];
+
+        // skip low-quality matches
+        if (match.m_matchPercentage >= m.min_confidence)
+            validCount++;
+    }
+
+    Util::log(L"Found %d matches in %0.2lf sec", validCount, elapsedSec); // matched by KIAWrapper
     for (int i = 0; i < matchCount; i++)
     {
         SearchSDK_Match& match = matches[i];
