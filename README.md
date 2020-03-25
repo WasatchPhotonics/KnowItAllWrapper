@@ -52,6 +52,8 @@ readily viewed in Excel.
 
 # History
 
+- 2020-03-25 1.0.1
+    - rebuilt under new Visual Studio
 - 2019-10-11 1.0.0
     - report valid count instead of all matches
 - 2019-06-19 0.5.0
