@@ -47,7 +47,7 @@ Options::Options(int argc, char** argv)
 void Options::usage()
 {
     printf(
-        "Bio-Rad Know-It-All Console (C) 2019, Wasatch Photonics\n\n"
+        "KnowItAll Console (C) 2021, Wasatch Photonics\n\n"
         "Usage:\n"
         "  KIAConsole [--streaming] [--directory \\path\\to\\spectra]\n\n"
         "  --streaming   read series of (wavenumber, intensity) pairs from STDIN,\n"

@@ -4,8 +4,8 @@
 # column-ordered CSVs.  Requires ENLIGHTEN and Wasatch.PY source distributions.
 # Names extracted spectra using the "label" row from the export.
 #
-# This script was created to generate an initial dataset for testing the Bio-Rad 
-# Know-It-All SearchSDK.  It is not expected to be required in normal operations,
+# This script was created to generate an initial dataset for testing the Wiley
+# KnowItAll SearchSDK.  It is not expected to be required in normal operations,
 # and similar functionality is planned for addition to the main ENLIGHTEN GUI via
 # a "re-save all" checkbox.
 

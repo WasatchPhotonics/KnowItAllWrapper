@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # This script parses and aggregates the output of KIAConsole, producing a
-# CSV report on each spectrum processed by Bio-Rad's Know-It-All.  At the
+# CSV report on each spectrum processed by Wiley KnowItAll.  At the
 # end of the report is a summary table showing overall matching performance
 # for each sample compound (based on the "truth" name inferred from the
 # input filename).

@@ -4,7 +4,7 @@
 #include <atlstr.h>         // for CString
 #include <winbase.h>        // for SetDllDirectory?
 
-#include "SearchSDK.h"      // Bio-Rad API
+#include "SearchSDK.h"      // KnowItAll API
 
 #include "FileFinder.h"
 #include "Measurement.h"
@@ -281,7 +281,7 @@ int main(int argc, char** argv)
     if (!opts.valid)
         return -1;
 
-    // load Bio-Rad's SearchSDK.dll
+    // load KnowItAll's SearchSDK.dll
     if (!loadDLL())
         return -1;
 

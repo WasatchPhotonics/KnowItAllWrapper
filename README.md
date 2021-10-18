@@ -4,22 +4,18 @@ A simple command-line DOS program to exercise the Know-It-All ID-SDK Raman API f
 
 This was adapted from the ID-SDK "sample code" posted here:
 
-- https://info.bio-rad.com/KnowItAllSDK.html
+- https://sciencesolutions.wiley.com/knowitall-sdk/
 
 The goal will be to extend this to make it easy to call from ENLIGHTEN via Python.
 
 # Dependencies
 
-- Bio-Rad KnowItAll
+- Wiley KnowItAll
     - https://get.knowitall.com 
 
 # API
 
-See vendor docs here:
-
-- https://info.bio-rad.com/KnowItAllSDK.html
-
-Also see [SearchSDK.h](KIAConsole/SearchSDK.h) notes.
+- see [SearchSDK.h](KIAConsole/SearchSDK.h) notes.
 
 # Invocation
 
@@ -39,11 +35,6 @@ readily viewed in Excel.
 
     $ python ..\..\scripts\analyze-log.py test.log > summary.csv
 
-# References
-
-- [KnowItAll QuickStart](http://www.bio-rad.com/webroot/web/pdf/spectroscopy/global/english/literature/docs/280076-KnowItAll_Quick_Start_Guide_English.pdf)
-- [Building Custom Compound Databases](https://www.youtube.com/watch?v=rZ7ZhyrOLEg)
-
 # Backlog
 
 - add command-line options to specify max matches and min confidence
@@ -52,6 +43,8 @@ readily viewed in Excel.
 
 # History
 
+- 2021-10-18 1.0.2
+    - docs
 - 2020-03-25 1.0.1
     - rebuilt under new Visual Studio
 - 2019-10-11 1.0.0
